@@ -1,0 +1,121 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	background-color: #f6f4d8;
+	font-family: "Open Sans Condensed", sans-serif;
+}
+h1{
+	color: #ffa0b4;
+	font-family: "Archivo Black", sans-serif;
+	text-align: center;
+}
+h3{
+	color: #ffa0b4;
+	font-family: "Archivo Black", sans-serif;
+	text-align: center;
+}
+h4{
+	color: #000000;
+	font-family: "Archivo Black", sans-serif;
+	text-align: center;
+}
+a{
+	text-decoration: none;
+	color: #e3bb94;
+	font-family: "Open Sans Condensed", sans-serif;
+	word-spacing: 20px;
+	
+}
+a:hover{
+	color:#e3bb94;
+	background:#fdf1be ;
+}
+footer {
+   background-color: #B1DCE3;
+   text-align: center;
+   padding: 5px;
+   margin: 0 10px;
+   border-radius: 10px 10px 0px 0px;
+   clear: both;
+}
+#cabecalho{
+	background-image: url(../img/banner.cabecalho.png);
+	height: 130px;
+	width: 100%;
+}
+#logo{
+	float: left;
+}
+#area_menu{
+	text-align: center;
+	clear: both;
+	word-spacing: 20px;
+	pad
+
+}
+#titulo{
+	padding: 10px;
+	float: left;
+	padding-top: 30px;	
+}
+#titulo h1{
+    text-align: center;
+    margin-left: 500px;
+}
+#area-link img{
+   height: 20px;
+   width: 100%;
+}
+#area-link{
+	width: 100%;
+	height: 20%;
+   background-color: #fdf1be;
+   text-align: center;
+
+}
+#gif img{
+	float: left;
+	margin-left: 50px;
+	height: 600px;
+	width: 220px;
+	padding: 15px;
+}
+.card{
+	float: right;
+	display: flex;
+	/*margin: 10px auto;*/
+	width: 52%;
+	margin-top: 15px;
+	margin-right: 25%;
+	align-items: center;
+}
+.card img{
+	width: 65%; 
+	margin: 0px 5px;
+}
+#banners img{
+	width: 900px;
+	height: 200px;
+}
+.card1 img{
+	float: right;
+	display: flex;
+	margin: 25px auto;
+	width: 20%;
+	margin-top: 50px;
+	margin-right: 5%;
+	align-items: center;
+}
+.card2 img{
+	float: right;
+	display: flex;
+	margin: 25px auto;
+	width: 20%;
+	margin-top: 50px;
+	margin-right: 5%;
+	align-items: center;
+}
+
+	
